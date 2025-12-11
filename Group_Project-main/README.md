@@ -56,8 +56,7 @@ Group_Project/
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/Zeref-XXX/Group_Project.git
-cd Group_Project
+git clone https://github.com/itsanik1201/notestack.git
 ```
 
 2. **Configure environment variables**
@@ -125,42 +124,3 @@ This project is released under the MIT License.
 
 For questions or feedback, please open an issue on GitHub or contact the maintainers directly.
 
-<div style="text-align: center">⁂</div>
-
-[^1]: https://github.com/Zeref-XXX/Group_Project
-
-[^2]: https://github.com/Zeref-XXX/Group_Project/tree/main/backend
-
-[^3]: https://github.com/Zeref-XXX/Group_Project/tree/main/frontend
-
-[^4]: https://github.com/Zeref-XXX/Group_Project/tree/main/backend/Actions
-
-[^5]: https://github.com/Zeref-XXX/Group_Project/tree/main/backend/Middleware
-
-[^6]: https://github.com/Zeref-XXX/Group_Project/tree/main/backend/Routes
-
-[^7]: https://github.com/Zeref-XXX/Group_Project/tree/main/backend/controller
-
-[^8]: https://github.com/Zeref-XXX/Group_Project/tree/main/backend/models
-
-[^9]: https://github.com/Zeref-XXX/Group_Project/blob/main/backend/.env
-
-[^10]: https://github.com/Zeref-XXX/Group_Project/blob/main/backend/.gitignore
-
-[^11]: https://github.com/Zeref-XXX/Group_Project/blob/main/backend/index.js
-
-[^12]: https://github.com/Zeref-XXX/Group_Project/blob/main/backend/package-lock.json
-
-[^13]: https://github.com/Zeref-XXX/Group_Project/blob/main/backend/package.json
-
-[^14]: https://github.com/Zeref-XXX/Group_Project/blob/main/backend/test
-
-[^15]: https://github.com/Zeref-XXX/Group_Project/tree/main/frontend/src
-
-[^16]: https://github.com/Zeref-XXX/Group_Project/blob/main/frontend/.gitignore
-
-[^17]: https://github.com/Zeref-XXX/Group_Project/blob/main/frontend/.postcssrc
-
-[^18]: https://github.com/Zeref-XXX/Group_Project/blob/main/frontend/package-lock.json
-
-[^19]: https://github.com/Zeref-XXX/Group_Project/blob/main/frontend/package.json
